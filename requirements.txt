@@ -7,3 +7,6 @@ opencv-python
 torchaudio
 pandas
 datetime
+python-multipart
+tqdm
+nunpy
