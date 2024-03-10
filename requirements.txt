@@ -9,4 +9,4 @@ pandas
 datetime
 python-multipart
 tqdm
-nunpy
+numpy
